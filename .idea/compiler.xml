@@ -11,11 +11,13 @@
         <module name="restaurant-service" />
         <module name="swiggy-app" />
         <module name="swiggy-gateway" />
+        <module name="identity-service" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="identity-service" options="-parameters" />
       <module name="restaurant-service" options="-parameters" />
       <module name="swiggy-app" options="-parameters" />
       <module name="swiggy-gateway" options="-parameters" />

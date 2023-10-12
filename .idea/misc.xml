@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/swiggy-gateway/pom.xml" />
         <option value="$PROJECT_DIR$/restaurant-service/pom.xml" />
         <option value="$PROJECT_DIR$/swiggy-service-registry/pom.xml" />
+        <option value="$PROJECT_DIR$/identity-service/pom.xml" />
       </list>
     </option>
   </component>
