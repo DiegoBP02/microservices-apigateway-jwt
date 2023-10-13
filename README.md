@@ -1,3 +1,5 @@
+This project was created based on the tutorial from the YouTube video titled "Microservices Security Using JWT | Spring Cloud Gateway | JavaTechie", available at [https://www.youtube.com/watch?v=1aWhYEynZQw](https://www.youtube.com/watch?v=MWvnmyLRUik&list=PLVz2XdJiJQxxWhFkucZBoMxeYE6qTgEF8&index=14).
+
 # jwt-apigateway-security
 
 ## Regist an user
